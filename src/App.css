@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.count {
+  padding: 10px 40px;
+  margin: 20px;
+}
+.green{
+  color: green;
+}
+.blue{
+  color: blue;
+}
